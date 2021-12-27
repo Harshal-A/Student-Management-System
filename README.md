@@ -5,11 +5,11 @@
 A basic full-stack CRUD application that is a Student Management System with Thymeleaf and Springboot
 
 ## Features
-> Create Student
-> Update Student
-> List Student
-> Delete Student
-> View Employee
+- Create Student
+- Update Student
+- List Student
+- Delete Student
+- View Employee
 
 ## Tech used
 - [Springboot] - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
